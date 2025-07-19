@@ -11,4 +11,4 @@ screen.exitonclick()
 def Up():
     turtle.setheading(90)
 def Down():
-    turtle.setheading
+    turtle.setheading(270)
